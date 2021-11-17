@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexmfritz
-- 👀 I’m interested in ... software development, rock climbing, movies, and quality time with friends.
+- 👀 I’m interested in ... software development, movies, and quality time with friends.
 - 🌱 I’m currently learning ... front-end engineering.
 - 💞️ I’m looking to collaborate on ... Turing projects, learning opportunities, and life.
 - 📫 How to reach me ... my email.
