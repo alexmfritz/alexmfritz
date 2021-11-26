@@ -4,7 +4,7 @@ My name is Alex Fritz and I am a Front-End Software Developer student at [Turing
 
 #### Important Links
 
-<a href=”https://www.linkedin.com/in/alexmfritz"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=alexmfritz)</a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 #### Languages
 
