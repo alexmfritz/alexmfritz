@@ -1,9 +1,10 @@
 # Welcome! 
 
-My name is Alex Fritz and I am a Front-End Software Developer student at [Turing](https://turing.edu/), based out of the Seattle metro. Prior to Turing, I was an athlete in the outdoor industry and I had some incredible opportunities to travel and meet some awesome people. Through that time, I discovered a passion for teaching and sharing my positive experiences with others. I'm excited to leave Turing with an incredible set of skills so I can take that passion for teaching and give back to the next generation of programmers.
+![Screen Shot 2021-11-26 at 5 56 41 PM](https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png)
 
-#### Important Links
 
+#### Checkout My Work
+[![GitHub profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmfritz?tab=repositories)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexmfritz/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/alexmfritz)
 
