@@ -1,7 +1,8 @@
-# Welcome! 
+# ALEX FRITZ
+
+Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software Design. 
 
 ![Screen Shot 2021-11-26 at 5 56 41 PM](https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png)
-
 
 
 
@@ -9,6 +10,7 @@
 [![GitHub profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmfritz?tab=repositories)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexmfritz/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/alexmfritz)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/alexmfritz)
 
 
 
