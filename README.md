@@ -1,6 +1,6 @@
 # ALEX FRITZ
 
-Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design. 
+Welcome to my GitHub! I am currently a Front-End Software Developer student at [Turing School of Software & Design](https://turing.edu/). 
 
 ![Screen Shot 2021-11-26 at 5 56 41 PM](https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png)
 
