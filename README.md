@@ -10,9 +10,9 @@ Welcome to my GitHub! I am currently a Front-End Software Developer student at T
 
 
 ## Checkout My Work
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/alexmfritz)
 [![GitHub profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmfritz?tab=repositories)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/alexmfritz)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/alexmfritz)
 
 
 ## Languages
