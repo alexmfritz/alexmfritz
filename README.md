@@ -6,8 +6,6 @@ Welcome to my GitHub! I am currently a Front-End Software Developer student at [
 
 Checkout what I listned to the most in 2021:
 
-![<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EUMDoJuT8yJsl?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>]
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=644c7ef97ab7401c)
 
 ## Contact Me
