@@ -15,10 +15,12 @@ Welcome to my GitHub! I am currently a Front-End Software Developer student at T
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/alexmfritz)
 
 
-## Languages
+## Languages && Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
 [![Alex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight)](https://github.com/alexmfritz/github-readme-stats)
 
