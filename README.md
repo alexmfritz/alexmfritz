@@ -6,7 +6,7 @@ Welcome to my GitHub! I am currently a Front-End Software Developer student at [
 
 Checkout what I listned to the most in 2021:
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=644c7ef97ab7401c)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=644c7ef97ab7401c&nd=1)
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexfritzdev@gmail.com)
