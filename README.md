@@ -6,6 +6,9 @@ Checkout what I listned to the most in 2021:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/spotify/playlist/37i9dQZF1EUMDoJuT8yJsl?si=UWx07_B_Qt-CeggQTu2ywg)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
 
+<br>
+<br>
+
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexfritzdev@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexmfritz/)
