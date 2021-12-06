@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
 
 &nbsp;
 &nbsp;
