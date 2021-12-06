@@ -4,10 +4,8 @@
 <ul>
   <li> Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design</li>
 </ul>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight"><br />
 
-<br />
-<br />
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexfritzdev@gmail.com)
