@@ -4,10 +4,7 @@
 <ul>
   <li> Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design</li>
 </ul>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight"><p>&nbsp;</p><p>&nbsp;</p>
 
 
 ## Contact Me
