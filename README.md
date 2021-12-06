@@ -2,7 +2,7 @@
 
 <img align="right" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
 <ul align="center">
-  <li>I am currently a Front-End Software Developer student at Turing School of Software & Design</li>
+  <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
   <li> </li>
   <li> </li>
 </ul>
