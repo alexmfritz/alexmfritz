@@ -1,5 +1,12 @@
 # ALEX FRITZ
 
+<table style="width:100%">
+  <tr>
+    <td><img height="250" width="325" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight"></td>
+    <td><img height="250" width="500" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"></td>
+  </tr>
+</table>
+
 <img align="right" height="450" width="525" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
 <ul align="left">
   <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
