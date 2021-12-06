@@ -1,7 +1,7 @@
 # ALEX FRITZ
 
 <img align="right" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
-<ul align="center">
+<ul align="left">
   <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
   <li>Retired athlete finding love in the outdoors🏔⛷🌊</li>
   <li>Excited about creating the best user experience</li>
