@@ -4,7 +4,7 @@
 <ul align="center">
   <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
   <li>Retired athlete finding love in the outdoors🏔⛷🌊</li>
-  <li>Passionate about creating the best user experience</li>
+  <li>Excited about creating the best user experience</li>
 </ul>
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
 
