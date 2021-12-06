@@ -3,7 +3,7 @@
 </table>
 <table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
-    <td style='border:none;'>
+    <td style="border:none;">
       <img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
       <ul align="left">
         <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
@@ -11,7 +11,7 @@
         <li>Excited about creating the best user experience</li>
       </ul>
     </td>
-    <td style='border:none;'><img height="300" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"></td>
+    <td style="border:none;"><img height="300" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"></td>
   </tr>
 </table>
 
