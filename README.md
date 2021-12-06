@@ -3,13 +3,11 @@
 <img align="right" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
 
 <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
-### 
-### 
+
 <ul align="center">
   <li> Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design</li>
 </ul>
-### 
-### 
+
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexfritzdev@gmail.com)
