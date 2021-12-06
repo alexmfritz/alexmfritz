@@ -6,6 +6,8 @@
   <li>Retired athlete finding love in the outdoors🏔⛷🌊</li>
   <li>Excited about creating the best user experience</li>
 </ul>
+<br />
+<br />
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
 
 
