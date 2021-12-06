@@ -9,7 +9,7 @@
 <br />
 <br />
 <br />
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
+<img height="250" width="325" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
 
 
 ## Contact Me
