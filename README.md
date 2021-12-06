@@ -1,10 +1,11 @@
 # ALEX FRITZ
 
-<img align="right" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
+<img align="right" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
 Welcome to my GitHub! I am currently a Front-End Software Developer student at [Turing School of Software & Design](https://turing.edu/)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
+
 
 Checkout what I listned to the most in 2021:
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/spotify/playlist/37i9dQZF1EUMDoJuT8yJsl?si=UWx07_B_Qt-CeggQTu2ywg)
 
 ## Contact Me
