@@ -7,8 +7,6 @@
   <li>Excited about creating the best user experience</li>
 </ul>
 <br />
-<br />
-<br />
 <img height="250" width="325" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
 
 
