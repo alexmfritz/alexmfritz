@@ -1,10 +1,12 @@
 # ALEX FRITZ
 
-<img align="right" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"><p>&nbsp;</p><p>&nbsp;</p>
+<img align="right" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight"
 <ul>
   <li> Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design</li>
 </ul>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ## Contact Me
