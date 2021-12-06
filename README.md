@@ -4,7 +4,7 @@
 <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img height="250" width="325" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
+      <img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
       <ul align="left">
         <li>FE student at <a href="https://turing.edu/" target="_blank">Turing School of Software & Design</a></li>
         <li>Retired athlete finding love in the outdoors🏔⛷🌊</li>
