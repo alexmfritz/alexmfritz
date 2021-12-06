@@ -7,7 +7,7 @@
 &nbsp;
 &nbsp;
 
-<ul align="left">
+<ul align="center">
   <li> Welcome to my GitHub! I am currently a Front-End Software Developer student at Turing School of Software & Design</li>
 </ul>
 
