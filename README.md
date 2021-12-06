@@ -11,7 +11,7 @@
         <li>Excited about creating the best user experience</li>
       </ul>
     </td>
-    <td><img height="250" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"></td>
+    <td><img height="300" width="600" src="https://user-images.githubusercontent.com/89096040/143664565-23edc780-3538-4916-bd49-70d76d82368e.png"></td>
   </tr>
 </table>
 
