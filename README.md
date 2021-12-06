@@ -1,7 +1,7 @@
 # ALEX FRITZ
 
 </table>
-<table style="width:100%" border="0" cellspacing="0" cellpadding="0">
+<table style="width:100%" border="0" rules="none" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight">
