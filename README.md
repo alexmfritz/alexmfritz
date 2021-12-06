@@ -38,11 +38,14 @@ Checkout what I listned to the most in 2021:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-[![Alex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight)](https://github.com/alexmfritz/github-readme-stats)
+![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+
 
 
 
 
 ## Stats
+
+[![Alex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight)](https://github.com/alexmfritz/github-readme-stats)
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmfritz&theme=tokyonight)](https://github.com/alexmfritz/github-readme-stats)
