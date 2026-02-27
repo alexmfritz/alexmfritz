@@ -1,8 +1,8 @@
 # Hey, I'm Alex Fritz 👋
 
-Passionate about writing code and leveraging technology to tackle food scarcity, the housing crisis, and prison reform. I'm a [Turing School of Software & Design](https://turing.edu/) alum (Front-End Engineering, 2022) currently studying at Edmonds College to expand into a new tech stack. Along the way, I'm rebuilding projects from my Turing curriculum in Java — like [flashcards-java](https://github.com/alexmfritz/flashcards-java) — to bridge the gap between what I know and what I'm learning.
+Passionate about writing code and leveraging technology to tackle food scarcity, the housing crisis, and prison reform. I'm attended the [Turing School of Software & Design](https://turing.edu/) Front-End Engineering bootcamp in 2021 and I am currently studying at Edmonds College to expand into a new tech stack. Along the way, I've begun rebuilding projects from my Turing curriculum in Java — like [flashcards-java](https://github.com/alexmfritz/flashcards-java) — to bridge the gap between what I know and what I'm learning.
 
-I also build educational tools for incarcerated students who don't have internet access, like [jsFun-v2](https://github.com/alexmfritz/jsFun-v2) — an interactive JavaScript exercise platform designed to run entirely offline.
+I also build educational tools for incarcerated students who don't have internet access, like [jsFun-v2](https://github.com/alexmfritz/jsFun-v2) — an interactive JavaScript exercise platform designed to run entirely offline. 
 
 ---
 
@@ -25,13 +25,6 @@ I also build educational tools for incarcerated students who don't have internet
 ![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
----
-
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmfritz&show_icons=true&theme=tokyonight&hide_border=true" alt="Alex's GitHub Stats" height="170" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmfritz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 
 ---
 
