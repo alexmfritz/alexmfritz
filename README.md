@@ -2,7 +2,7 @@
 
 Passionate about writing code and leveraging technology to tackle food scarcity, the housing crisis, and prison reform. I'm attended the [Turing School of Software & Design](https://turing.edu/) Front-End Engineering bootcamp in 2021 and I am currently studying at Edmonds College to expand into a new tech stack. Along the way, I've begun rebuilding projects from my Turing curriculum in Java — like [flashcards-java](https://github.com/alexmfritz/flashcards-java) — to bridge the gap between what I know and what I'm learning.
 
-I also build educational tools for incarcerated students who don't have internet access, like [jsFun-v2](https://github.com/alexmfritz/jsFun-v2) — an interactive JavaScript exercise platform designed to run entirely offline. 
+I also build educational tools for incarcerated students who don't have internet access, like [CodeForge](https://github.com/alexmfritz/CodeForge) — an interactive JavaScript exercise platform designed to run entirely offline. 
 
 ---
 
